@@ -19,7 +19,7 @@ Haz clic en la imagen para ver el video:
 
 ### 4. Imagen Externa desde mi Carpeta
 Esta imagen está guardada en mi carpeta `MarkDown/images`:
-![Mi Imagen](images/foto.jpg)
+![Mi Imagen](descarga.webp)
 
 ---
 
