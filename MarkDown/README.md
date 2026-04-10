@@ -1,13 +1,21 @@
 ### 1. Estilos de Texto
-Aquí demuestro los estilos básicos:
-**Este texto es negrita** y *este es cursiva*.
-***Aquí combino ambos*** y también puedo ~~tachar texto~~.
+
+**Este texto es negrita** 
+
+*este es cursiva*.
+
+
+***Aquí combino ambos*** 
+
+~~tachar texto~~.
 
 ---
 
 ### 2. Espaciado y Separador
+
 Hola Línea 1 <br> Hola Línea 2
-(Arriba usé un salto de línea y abajo una línea divisora)
+
+
 
 ---
 
