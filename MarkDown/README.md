@@ -19,18 +19,9 @@ Hola Línea 1 <br> Hola Línea 2
 
 ---
 
-### 3. Enlace a video de YouTube (Cris MJ)
-Haz clic en la imagen para ver el video:
-[![Cris MJ - Gata Only]([https://youtube.com)](https://youtube.com](https://www.youtube.com/watch?v=FoaLe6Nq4LA&list=RDFoaLe6Nq4LA&start_radio=1))
+#**ENLACE DE VIDEO**<br>
+## Lucky Brown - Baila Para Mi (Official Video) <br>
+[![Alt text](https://yt3.googleusercontent.com/INvJjwij6n74TSI_lox6D_Hjc9k3GpWbE27Zx2UKadIdJoSh2JU87OFAc1s0SFv9-H5j5GQS=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/watch?v=sHF60UmHQ6Q)
 
----
 
-### 4. Imagen Externa desde mi Carpeta
-Esta imagen está guardada en mi carpeta `MarkDown/images`:
-![Mi Imagen](descarga.webp)
 
----
-
-### 5. Sintaxis de Imágenes
-Para insertar una imagen se usa: `![Texto alternativo](URL)`
-Ejemplo de icono: ![GitHub Icon](https://githubassets.com)
