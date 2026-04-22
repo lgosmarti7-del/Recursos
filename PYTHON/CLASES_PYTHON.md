@@ -1,7 +1,7 @@
 ## Encapsulación
 
 ### ¿Cómo se encapsula código en Python?
-Se hace poniendo dos guiones bajos `__` antes del nombre de un atributo o un método. Al hacer esto, Python "esconde" esa variable para que no se pueda tocar directamente desde afuera de la clase, protegiendo los datos del personaje.
+Se hace poniendo dos guiones bajos `__` antes del nombre de un atributo o un método. Al hacer esto, Python esconde esa variable para que no se pueda tocar directamente desde afuera de la clase, protegiendo los datos del personaje.
 
 ```python
 self.__fuerza = fuerza  # Atributo encapsulado
