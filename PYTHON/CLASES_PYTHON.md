@@ -1,33 +1,20 @@
 ## Encapsulación
 
-### ¿Cómo se encapsulaa el codigo en Python?
-En Python la encapsulación se logra usando guiones bajos antes del nombre de un atributo o método. 
-* Si usas un guion (`_atributo`), es un aviso de que es privado (por convención).
-* Si usas dos guiones (`__atributo`), Python "esconde" el nombre para que no sea fácil acceder a él desde fuera de la clase.
+### ¿Cómo se encapsula código en Python?
+Se hace poniendo dos guiones bajos `__` antes del nombre de un atributo o un método. Al hacer esto, Python "esconde" esa variable para que no se pueda tocar directamente desde afuera de la clase, protegiendo los datos del personaje.
 
 ```python
-class Personaje:
-    def __init__(self, nombre):
-        self.__nombre = nombre  # Atributo encapsulado (privado)
+self.__fuerza = fuerza  # Atributo encapsulado
 ```
 
 ### ¿Para qué se usan los métodos Get y Set?
-Se usan como "intermediarios" o porteros. 
-* **Get (Obtener):** Sirve para leer el valor de un atributo privado.
-* **Set (Establecer):** Sirve para modificar el valor de un atributo privado, permitiéndonos validar la información (por ejemplo, evitar que la vida sea un número negativo).
-
-```python
-def get_fuerza(self):
-    return self.__fuerza
-
-def set_fuerza(self, valor):
-    if valor > 0:
-        self.__fuerza = valor
-```
+Se usan para poder interactuar con los datos que escondimos. 
+* **Get:** sirve para "obtener" o leer el valor del atributo.
+* **Set:** sirve para "asignar" o cambiar el valor, permitiéndonos controlar que el nuevo dato sea correcto (por ejemplo, que no nos pongan vida negativa).
 
 ### ¿Se puede acceder a los métodos o atributos una vez encapsulados?
-No se puede acceder a ellos de forma directa usando el punto (ej. `personaje.__vida` dará error). La única forma correcta de acceder es a través de los métodos **Get** y **Set** que definimos dentro de la clase. Esto se justifica porque la encapsulación busca proteger la integridad de los datos, evitando que el estado interno del objeto sea alterado de manera accidental o malintencionada desde el exterior del programa.
+No se puede acceder de la forma normal (objeto.atributo) porque Python lanzará un error indicando que no existe. La única forma de entrar es creando funciones específicas dentro de la clase (los Get y Set), ya que esto asegura que el programador tenga el control total sobre cómo y cuándo se modifican los valores internos del objeto.
 
 ---
-### Archivo de Código Encapsulado
-Puedes ver la versión protegida aquí: [personaje_encapsulado.py](./personaje_encapsulado.py)
+### Archivo de Código Refactorizado
+Puedes ver la práctica de encapsulación aquí: [personaje_encapsulado.py](./personaje_encapsulado.py)
