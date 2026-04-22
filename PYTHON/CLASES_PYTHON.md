@@ -1,4 +1,4 @@
-# APUNTES
+## APUNTES
 
 ## Parte 1: Lo básico de los personajes
 
