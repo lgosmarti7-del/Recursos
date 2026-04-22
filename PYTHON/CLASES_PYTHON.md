@@ -92,11 +92,11 @@ La súper clase (o clase padre) es la clase principal de donde sacamos los datos
 ### ¿Para qué sirve `pass`?
 La palabra `pass` es como un "relleno". Se usa cuando quieres crear una clase o una función pero todavía no vas a escribir nada dentro. Le dice a Python: "No hagas nada, solo deja este espacio vacío por ahora" para que no dé error.
 
-### ¿Qué es la función `super()` y para qué sirve?
+### ¿Qué es la función `super` y para qué sirve?
 Es una función que sirve para llamar a los métodos de la clase padre desde la clase hija. Su beneficio es que nos ahorra escribir otra vez todo el código del constructor; simplemente le decimos a Python: "Usa lo que ya tiene la súper clase".
 
 ### ¿Qué es la herencia múltiple?
-Se refiere a que una clase hija puede heredar de **varias** clases padres al mismo tiempo. Es como si un personaje pudiera heredar habilidades de una clase "Mago" y de una clase "Guerrero" a la vez.
+Se refiere a que una clase hija puede heredar de **varias** clases padres al mismo tiempo. Es como si un personaje pudiera heredar habilidades de una clase Mago y de una clase Guerrero a la vez.
 
 ### ¿Cuál es el beneficio de la Herencia?
 El mayor beneficio es que **ahorramos código**. No tenemos que escribir lo mismo una y otra vez para cada tipo de personaje; escribimos lo básico en una clase y las demás solo copian lo que necesitan y añaden sus cosas especiales.
