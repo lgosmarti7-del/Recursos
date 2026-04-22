@@ -56,7 +56,6 @@ No se puede entrar directo (con el punto), porque sale error. Solo se puede entr
 ---
 
 ### Mis archivos de práctica
-* [Mi primer código: personaje.py](./personaje.py)
 * [Código con candados: personaje_encapsulado.py](./personaje_encapsulado.py)
 
 
