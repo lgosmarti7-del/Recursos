@@ -102,9 +102,9 @@ Se refiere a que una clase hija puede heredar de **varias** clases padres al mis
 El mayor beneficio es que **ahorramos código**. No tenemos que escribir lo mismo una y otra vez para cada tipo de personaje; escribimos lo básico en una clase y las demás solo copian lo que necesitan y añaden sus cosas especiales.
 
 ---
-### Archivo de Herencia
+### Archivo de Herencia ( EJ Codigo)
 Puedes ver la práctica aquí: [personaje_herencia.py](./personaje_herencia.py)
 
 ---
-### Archivo de Código Refactorizado
+### Archivo de Código Refactorizado (Ej Codigo )
 Puedes ver la práctica de encapsulación aquí: [personaje_encapsulado.py](./personaje_encapsulado.py)
