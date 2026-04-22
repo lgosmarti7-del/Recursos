@@ -12,7 +12,8 @@
 
 ## Ejemplo de código ( POO, GATO ) 
 
-[poo_gato.py](./poo_gato.py)
+
+[FundamentosProgramacion](/poo_gato.py)
 
 
 ---
