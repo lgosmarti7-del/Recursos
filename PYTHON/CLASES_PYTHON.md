@@ -1,4 +1,4 @@
-## APUNTES
+## 1.- APUNTES
 
 ## Parte 1: Lo básico de los personajes
 
@@ -62,7 +62,7 @@ No se puede entrar directo (con el punto), porque sale error. Solo se puede entr
 
 
 
-## Encapsulación
+## 2.- Encapsulación
 
 ### ¿Cómo se encapsula código en Python?
 Se hace poniendo dos guiones bajos `__` antes del nombre de un atributo o un método. Al hacer esto, Python esconde esa variable para que no se pueda tocar directamente desde afuera de la clase, protegiendo los datos del personaje.
@@ -78,6 +78,32 @@ Se usan para poder interactuar con los datos que escondimos.
 
 ### ¿Se puede acceder a los métodos o atributos una vez encapsulados?
 No se puede acceder de la forma normal (objeto.atributo) porque Python lanzará un error indicando que no existe. La única forma de entrar es creando funciones específicas dentro de la clase (los Get y Set), ya que esto asegura que el programador tenga el control total sobre cómo y cuándo se modifican los valores internos del objeto.
+
+
+
+## 3.- Herencia 
+
+### ¿Por qué da error al crear la clase Guerrero al inicio?
+El error ocurre porque al heredar de `Personaje`, la clase `Guerrero` también necesita que le pasemos los datos al constructor (`__init__`). Si intentamos crear un Guerrero sin decirle cómo se llama o cuánta vida tiene, Python no sabe qué hacer y lanza un error.
+
+### ¿A qué se refiere con "Súper Clase"?
+La súper clase (o clase padre) es la clase principal de donde sacamos los datos. En nuestro ejemplo, `Personaje` es la súper clase y `Guerrero` es la subclase (clase hija).
+
+### ¿Para qué sirve `pass`?
+La palabra `pass` es como un "relleno". Se usa cuando quieres crear una clase o una función pero todavía no vas a escribir nada dentro. Le dice a Python: "No hagas nada, solo deja este espacio vacío por ahora" para que no dé error.
+
+### ¿Qué es la función `super()` y para qué sirve?
+Es una función que sirve para llamar a los métodos de la clase padre desde la clase hija. Su beneficio es que nos ahorra escribir otra vez todo el código del constructor; simplemente le decimos a Python: "Usa lo que ya tiene la súper clase".
+
+### ¿Qué es la herencia múltiple?
+Se refiere a que una clase hija puede heredar de **varias** clases padres al mismo tiempo. Es como si un personaje pudiera heredar habilidades de una clase "Mago" y de una clase "Guerrero" a la vez.
+
+### ¿Cuál es el beneficio de la Herencia?
+El mayor beneficio es que **ahorramos código**. No tenemos que escribir lo mismo una y otra vez para cada tipo de personaje; escribimos lo básico en una clase y las demás solo copian lo que necesitan y añaden sus cosas especiales.
+
+---
+### Archivo de Herencia
+Puedes ver la práctica aquí: [personaje_herencia.py](./personaje_herencia.py)
 
 ---
 ### Archivo de Código Refactorizado
