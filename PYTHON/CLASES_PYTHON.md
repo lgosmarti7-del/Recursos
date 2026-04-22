@@ -15,10 +15,10 @@ def __init__(self, nombre, fuerza, inteligencia, defensa, vida):
 ```
 
 ### ¿Qué es `self`?
-Es una palabra para decir "este". Si tengo a Goku y a Vegeta, `self` ayuda a que Python sepa que la vida es de "este" personaje y no del otro. Siempre hay que ponerlo de primero.
+Es una palabra para decir este. Si tengo a dos personas peliando, `self` ayuda a que Python sepa que la vida es de este personaje y no del otro. Siempre hay que ponerlo de primero.
 
 ### ¿Qué es `def`?
-Es la palabra que uso cada vez que voy a crear una acción (como atacar o morir). Le dice a Python: "Oye, aquí empieza una función".
+Es la palabra que uso cada vez que voy a crear una acción (como atacar o morir). Le dice a Python: Aqui empieza tu funcion .
 
 ### ¿Cómo ver un dato (atributo)?
 Solo pongo el nombre del personaje, un punto y lo que quiero saber.
@@ -45,8 +45,8 @@ self.__fuerza = fuerza  # Ahora tiene candado
 
 ### ¿Para qué sirven el Get y el Set?
 Como los datos están escondidos, necesito una forma de usarlos:
-* **Get:** Es para "pedir" el dato y poder verlo.
-* **Set:** Es para "cambiar" el dato pero con cuidado (por ejemplo, para que nadie me ponga vida negativa).
+* **Get:** Es para pedir el dato y poder verlo.
+* **Set:** Es para cambiar el dato pero con cuidado (por ejemplo, para que nadie me ponga vida negativa).
 
 ### ¿Se puede entrar a lo que tiene candado?
 No se puede entrar directo (con el punto), porque sale error. Solo se puede entrar usando los Get y Set que yo mismo creé. Esto sirve para que el código sea más seguro y no se rompa nada por accidente.
