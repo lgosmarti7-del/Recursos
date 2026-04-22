@@ -13,7 +13,7 @@
 ## Ejemplo de código ( POO, GATO ) 
 
 
-[FundamentosProgramacion](/poo_gato.py)
+[Ejemplo poo](/poo_gato.py)
 
 
 ---
