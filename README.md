@@ -5,9 +5,9 @@
 
 
 
+## **Apuntes**
 
-
-*  [Aprender Clases y Herencia](./PYTHON/CLASES_PYTHON.md) - **(Apuntes)**
+*  [Aprender Clases y Herencia](./PYTHON/CLASES_PYTHON.md) 
 *   [Cómo usar Markdown](./MarkDown) 
 
 ---
