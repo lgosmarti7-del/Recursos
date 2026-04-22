@@ -1,6 +1,4 @@
-# Mis apuntes de Clases en Python 🐍
-
-Aquí explico lo que aprendí en el video sobre cómo crear personajes y proteger sus datos.
+# APUNTES
 
 ## Parte 1: Lo básico de los personajes
 
