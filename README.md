@@ -8,6 +8,11 @@
 ## **Apuntes**
 
 *  [Aprender Clases y Herencia](./PYTHON/CLASES_PYTHON.md) 
-*   [Cómo usar Markdown](./MarkDown) 
+*   [Cómo usar Markdown](./MarkDown)
+
+## Ejemplo de código ( POO, GATO ) 
+
+[poo_gato.py](./poo_gato.py)
+
 
 ---
