@@ -115,3 +115,33 @@ Se utiliza para permitir que diferentes objetos (como un Guerrero o un Mago) res
 ¿En el método daño(self, enemigo) qué deberíamos hacer en el caso de que la fuerza sea menor a la defensa?
 Debemos agregar una validación para que el daño no sea un número negativo. Si la fuerza es menor a la defensa, el daño debe igualarse a 0, Sino al restar un daño negativo, el enemigo terminaría "curándose" en lugar de recibir daño
 
+* Ejemplo Polimorfismo
+
+```python
+class Transporte:
+    def desplazarse(self):
+        pass
+
+class Avion(Transporte):
+    def desplazarse(self):
+        return "Estoy volando por los aires"
+
+class Barco(Transporte):
+    def desplazarse(self):
+        return "Estoy navegando por el océano"
+
+class Bicicleta(Transporte):
+    def desplazarse(self):
+        return "Estoy pedaleando por la via"
+
+def iniciar_viaje(vehiculo):
+    print(vehiculo.desplazarse())
+
+mi_avion = Avion()
+mi_barco = Barco()
+
+iniciar_viaje(mi_avion)  # Resultado: Estoy volando...
+iniciar_viaje(mi_barco)  # Resultado: Estoy navegando...
+```
+
+
