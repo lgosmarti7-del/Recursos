@@ -1,5 +1,3 @@
-## 1.- APUNTES
-
 ## Parte 1: Lo básico de los personajes
 
 ### El constructor (`__init__`)
@@ -15,10 +13,10 @@ def __init__(self, nombre, fuerza, inteligencia, defensa, vida):
 ```
 
 ### ¿Qué es `self`?
-Es una palabra para decir este. Si tengo a dos personas peliando, `self` ayuda a que Python sepa que la vida es de este personaje y no del otro. Siempre hay que ponerlo de primero.
+Es una palabra para decir este. Si tengo a dos personas peliando, `self` ayuda a que Python sepa que la vida es de este personaje y no del otro.
 
 ### ¿Qué es `def`?
-Es la palabra que uso cada vez que voy a crear una acción (como atacar o morir). Le dice a Python: Aqui empieza tu funcion .
+Es la palabra que uso cada vez que voy a crear una acción (como atacar o morir)
 
 ### ¿Cómo ver un dato (atributo)?
 Solo pongo el nombre del personaje, un punto y lo que quiero saber.
@@ -37,7 +35,7 @@ guerrero.atributos()
 ## Parte 2: Encapsulación (Poner candados)
 
 ### ¿Cómo se encapsula el código?
-Es fácil: solo le pongo **dos guiones bajos** `__` antes del nombre a las variables. Con eso, Python las esconde para que nadie las cambie por error desde afuera.
+Solo le pongo **dos guiones bajos** `__` antes del nombre a las variables. Con eso, Python las esconde para que nadie las cambie por error desde afuera.
 
 ```python
 self.__fuerza = fuerza  # Ahora tiene candado
