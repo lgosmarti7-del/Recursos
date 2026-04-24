@@ -145,5 +145,14 @@ iniciar_viaje(mi_barco)  # Resultado: Estoy navegando...
 ```
 
 #### 5.- Proyecto Final: Fundamentos de programacion computacional
+## Proyecto Final: Clase Jugador
+
+**Acciones ():**
+*   **hacer_gol**: Suma uno al contador por cada gol.
+*   **transferir**: Cambia el nombre del equipo donde juega la persona.
+*   **ver_ficha**: Muestra un resumen de toda la información del partido.
+
+[Codigo](Recursos/Python/jugador_practica.py)
+
 
 
