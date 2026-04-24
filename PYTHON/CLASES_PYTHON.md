@@ -106,3 +106,12 @@ Puedes ver la práctica aquí: [personaje_herencia.py](./personaje_herencia.py)
 ---
 ### Archivo de Código Refactorizado (Ej Codigo )
 Puedes ver la práctica de encapsulación aquí: [personaje_encapsulado.py](./personaje_encapsulado.py)
+
+## 4.- polimorfismo
+
+¿Para qué se usa el polimorfismo?
+Se utiliza para permitir que diferentes objetos (como un Guerrero o un Mago) respondan al mismo método (como daño()) de maneras distintas. Esto facilita que el código sea flexible, ya que podemos tratar a todos los personajes como una clase base pero ejecutar la lógica específica de cada uno
+
+¿En el método daño(self, enemigo) qué deberíamos hacer en el caso de que la fuerza sea menor a la defensa?
+Debemos agregar una validación para que el daño no sea un número negativo. Si la fuerza es menor a la defensa, el daño debe igualarse a 0, Sino al restar un daño negativo, el enemigo terminaría "curándose" en lugar de recibir daño
+
