@@ -145,14 +145,12 @@ iniciar_viaje(mi_barco)  # Resultado: Estoy navegando...
 ```
 
 #### 5.- Proyecto Final: Fundamentos de programacion computacional
-## Proyecto Final: Clase Jugador
+## Proyecto Final: Clase Heroe
 
-**Acciones ():**
-*   **hacer_gol**: Suma uno al contador por cada gol.
-*   **transferir**: Cambia el nombre del equipo donde juega la persona.
-*   **ver_ficha**: Muestra un resumen de toda la información del partido.
-
-[Codigo](Recursos/Python/jugador_practica.py)
+**Explicación:**
+Cree el codigo para gestionar personajes de ficción elegí los atributos nombre y salud maxima para definir la identidad y resistencia del los personaje Los métodos permiten que el daño y la curación usando un atributo  para la salud actual.
+**Enlace al script:**
+[Ver código de práctica final](PROYECTO_practica.py)
 
 
 
