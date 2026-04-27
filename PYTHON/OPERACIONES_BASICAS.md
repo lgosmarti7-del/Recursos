@@ -1,4 +1,4 @@
-**Lo que probé:**
+
 * Suma: `5 + 5`
 * Resta: `10 - 2`
 * Multiplicar: `3 * 3` (se usa el asterisco).
