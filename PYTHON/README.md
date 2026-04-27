@@ -4,6 +4,8 @@
 * [Ir a Clases python ](CLASES_PYTHON.md)
   
 * [Ir a Funciones ](FUNCIONES.md)
+  
+# CODIGOS
 
 * [Ir a Proyecto ](PROYECTO_practica.py)
 * [Ir a personaje encapsulado ](personaje_encapsulado.py)
