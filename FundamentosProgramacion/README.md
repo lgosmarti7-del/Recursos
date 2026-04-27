@@ -1,4 +1,5 @@
+### RESUMEN
 *   📁 [PARADIGMA](./PARADIGMAS.md) 
-*   📁 [Prácticas de Python](./POO.md) - Codigos
-*   📁 [Configuraciones de VsCode](./VsCode) 
+*   📁 [POO](./POO.md) 
+*   📁 [poo_gato.py](./poo_gato.py) 
 
