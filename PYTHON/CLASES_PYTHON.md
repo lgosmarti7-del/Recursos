@@ -46,9 +46,6 @@ Como los datos están escondidos, necesito una forma de usarlos:
 * **Get:** Es para pedir el dato y poder verlo.
 * **Set:** Es para cambiar el dato pero con cuidado (por ejemplo, para que nadie me ponga vida negativa).
 
-### ¿Se puede entrar a lo que tiene candado?
-No se puede entrar directo (con el punto), porque sale error. Solo se puede entrar usando los Get y Set que yo mismo creé. Esto sirve para que el código sea más seguro y no se rompa nada por accidente.
-
 ---
 
 ### Mis archivos de práctica
