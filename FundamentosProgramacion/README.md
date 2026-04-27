@@ -1,4 +1,4 @@
 *   📁 [PARADIGMA](./FundamentosProgramacion/PARADIGMAS.md) 
-*   📁 [Prácticas de Python](./PYTHON) - Codigos
+*   📁 [Prácticas de Python](./FundamentosProgramacion/POO.md) - Codigos
 *   📁 [Configuraciones de VsCode](./VsCode) 
 
