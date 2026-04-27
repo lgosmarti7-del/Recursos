@@ -21,11 +21,11 @@ class Guerrero(Personaje):
         super().__init__(nombre, fuerza, inteligencia, defensa, vida)
         self.espada = espada # Atributo nuevo solo del guerrero
 
-    # Podemos cambiar un método (Sobrecarga)
+    
     def atributos(self):
         super().atributos()
         print("·Espada:", self.espada)
 
-# Prueba básica
+
 mi_guerrero = Guerrero("Aragorn", 20, 10, 10, 100, 5)
 mi_guerrero.atributos()
