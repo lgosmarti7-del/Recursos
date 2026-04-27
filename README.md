@@ -10,10 +10,10 @@
 *  [Aprender Clases y Herencia](./PYTHON/CLASES_PYTHON.md) 
 *   [Cómo usar Markdown](./MarkDown)
 
-## Ejemplo de código ( POO, GATO ) 
+## Ejemplo de ( POO, GATO ) 
 
 
-[Ejemplo poo](/poo_gato.py)
+[Ejemplo](./FundamentosProgramacion/poo_gato.py)
 
 
 ---
