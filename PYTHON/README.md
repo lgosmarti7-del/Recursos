@@ -7,8 +7,8 @@
 
 * [Ir a Proyecto ](PROYECTO_practica.py)
 
-  # CODIGOS
-  [Ir a Proyecto ](jugador_practica.py)
-  [Ir a Proyecto ](personaje_encapsulado.py)
-  [Ir a Proyecto ](personaje_herencia.py)
+  # Codigos
+  [Ir a jugador practica ](jugador_practica.py)
+  [Ir a personaje encapsulado ](personaje_encapsulado.py)
+  [Ir a personaje herencia ](personaje_herencia.py)
   
