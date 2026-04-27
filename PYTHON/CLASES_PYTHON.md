@@ -32,7 +32,7 @@ guerrero.atributos()
 
 ---
 
-## Parte 2: Encapsulación (Poner candados)
+## Parte 2: Encapsulación
 
 ### ¿Cómo se encapsula el código?
 Solo le pongo **dos guiones bajos** `__` antes del nombre a las variables. Con eso, Python las esconde para que nadie las cambie por error desde afuera.
