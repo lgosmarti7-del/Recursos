@@ -45,4 +45,4 @@ print("-" * 10)
 maga = Heroe("Morgana", 60)
 maga.recibir_danio(10)
 maga.estado_critico()
-maga.curar(50) # El setter limitará a su salud_maxima
+maga.curar(50)
