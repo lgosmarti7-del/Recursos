@@ -12,7 +12,7 @@
 * [Ir a personaje herencia ](personaje_herencia.py)
   
 # Explicacion video ( Definicion ) 
-* [Ir a CICLO_FOR](CICLO_DOR.md)
+* [Ir a CICLO FOR](CICLO_FOR.md)
 * [Ir a IF ELSE](IF_ELSE.md)
 * [Ir a OPERACIONES BASICAS](OPERACIONES_BASICAS.md)
 * [Ir a PROYECTO PRACTICA](PROYECTO_practica.md)
