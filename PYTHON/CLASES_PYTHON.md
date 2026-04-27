@@ -85,7 +85,7 @@ El error ocurre porque al heredar de `Personaje`, la clase `Guerrero` también n
 La súper clase (o clase padre) es la clase principal de donde sacamos los datos. En nuestro ejemplo, `Personaje` es la súper clase y `Guerrero` es la subclase (clase hija).
 
 ### ¿Para qué sirve `pass`?
-La palabra `pass` es como un "relleno". Se usa cuando quieres crear una clase o una función pero todavía no vas a escribir nada dentro. Le dice a Python: "No hagas nada, solo deja este espacio vacío por ahora" para que no dé error.
+La palabra `pass` es como un relleno se usa cuando quieres crear una clase o una función pero todavía no vas a escribir nada dentro. Le dice a Python: "No hagas nada, solo deja este espacio vacío por ahora" para que no dé error.
 
 ### ¿Qué es la función `super` y para qué sirve?
 Es una función que sirve para llamar a los métodos de la clase padre desde la clase hija. Su beneficio es que nos ahorra escribir otra vez todo el código del constructor; simplemente le decimos a Python: "Usa lo que ya tiene la súper clase".
