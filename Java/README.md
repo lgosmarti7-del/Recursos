@@ -1,1 +1,1 @@
-
+"Al traducir mi código de Python a Java me di cuenta que Java es mucho más estricto , Por ejemplo   tuve que poner String o int antes de cada variable. También descubri que Java usa llaves {} para agrupar el código y siempre lleva un punto y coma ; al final de cada instrucción.
