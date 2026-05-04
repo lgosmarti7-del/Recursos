@@ -5,7 +5,7 @@
 - [Explicación de UML](./UML.md)
 
 ## 2. Diagrama de Flujo
-- [Lógica de procesos (Flowchart)](./FLUJO_LOGICA.md)
+- [Lógica de procesos](./FLUJO_LOGICA.md)
 
 ## 3. Estructura de Clase
-- [Diagrama de Clases (POO)](./CLASE_ESTRUCTURA.md)
+- [Diagrama de Clases Estructura](./CLASE_ESTRUCTURA.md)
