@@ -1,7 +1,8 @@
 ##  Carpetas
 *   📁 [Fundamentos de Programación](./FundamentosProgramacion/README.md) 
 *   📁 [Prácticas de Python](./PYTHON) - Codigos
-*   📁 [VsCode](./VsCode) 
+*   📁 [VsCode](./VsCode)
+*   📁 [Diagramas](./Diagrams/README.md)
 
 
 
