@@ -1,6 +1,5 @@
 # Documentación de Diagramas
 
-En esta sección se encuentra la lógica visual del proyecto.
 
 ## 1. Fundamentos de UML
 - [Explicación de UML](./UML.md)
