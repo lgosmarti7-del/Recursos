@@ -1,5 +1,13 @@
-class Main {
-    public static void main(String[] args) { // Declaramos variables de tipo texto
-        String libro = "El programador pragmático"; // Declaramos una variable de tipo String para almacenar texto
+public class Lenguaje {
+    String nombre;
+    int año;
+
+    public Lenguaje(String nombre, int año) {
+        this.nombre = nombre;
+        this.año = año;
+    }
+
+    public void descripcion() {
+        System.out.println(nombre + " fue creado en " + año);
     }
 }
