@@ -4,7 +4,7 @@
 Tablas creadas en el cuaderno pasadas en limpio:
 
 ### Tablas de clase
-![Foto de mis tablas]<img width="1200" height="1600" alt="WhatsApp Image 2026-05-15 at 9 02 24 AM" src="https://github.com/user-attachments/assets/e74a4d99-ab5c-45d6-a2c3-9e7163830139" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-15 at 9 02 24 AM" src="https://github.com/user-attachments/assets/e74a4d99-ab5c-45d6-a2c3-9e7163830139" />
 
 
 ---
