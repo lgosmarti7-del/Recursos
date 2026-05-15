@@ -5,7 +5,7 @@ Apuntes extraídos del análisis del video "Cardinalidad en Bases de Datos". Eje
 ## 1. Notación Clásica
 
 ### Uno a Uno (1:1) - Persona y Pasaporte
-![Cardinalidad Clásica 1:1](db_cardinalidad_clasic-1-1.jpg)
+![Cardinalidad Clásica 1:1](Cardinalidad%20Clásica%2011.jpeg)
 
 ### Uno a Muchos (1:N) - Empresa y Empleados
 ![Cardinalidad Clásica 1:N](db_cardinalidad_clasic-1-N.jpg)
