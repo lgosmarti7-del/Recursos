@@ -1,30 +1,30 @@
 # ETAPA 2: El Desafío de la Cardinalidad
 
-Apuntes extraídos del análisis del video "Cardinalidad en Bases de Datos". Ejemplos prácticos pasados en limpio con variaciones en las filas.
+Apuntes extraídos del análisis del video "Cardinalidad en Bases de Datos". Haz clic en cada enlace para ver la fotografía de la tabla correspondiente en el repositorio:
 
 ## 1. Notación Clásica
 
 ### Uno a Uno (1:1) - Persona y Pasaporte
-![Cardinalidad Clásica 1:1](Cardinalidad%20Clásica%2011.jpeg)
+* [Ver fotografía: Cardinalidad Clásica 1:1](db_cardinalidad_clasic-1-1.jpg)
 
 ### Uno a Muchos (1:N) - Empresa y Empleados
-![Cardinalidad Clásica 1:N](db_cardinalidad_clasic-1-N.jpg)
+* [Ver fotografía: Cardinalidad Clásica 1:N](db_cardinalidad_clasic-1-N.jpg)
 
 ### Muchos a Muchos (N:M) - Estudiantes y Cursos
-![Cardinalidad Clásica N:M](db_cardinalidad_clasic-N-M.jpg)
+* [Ver fotografía: Cardinalidad Clásica N:M](db_cardinalidad_clasic-N-M.jpg)
 
 ---
 
 ## 2. Notación de Mínimos y Máximos
 
 ### Rango 0 a 1 (0..1) - Empleado y Estacionamiento
-![Cardinalidad Min Max 0:1](db_cardinalidad_min_max-0-1.jpg)
+* [Ver fotografía: Cardinalidad Min Max 0:1](db_cardinalidad_min_max-0-1.jpg)
 
 ### Rango 0 a Muchos (0..N) - Cliente y Tarjetas de Crédito
-![Cardinalidad Min Max 0:N](db_cardinalidad_min_max-0-N.jpg)
+* [Ver fotografía: Cardinalidad Min Max 0:N](db_cardinalidad_min_max-0-N.jpg)
 
 ### Rango 1 a 1 (1..1) - Producto y Código de Barra
-![Cardinalidad Min Max 1:1](db_cardinalidad_min_max-1-1.jpg)
+* [Ver fotografía: Cardinalidad Min Max 1:1](db_cardinalidad_min_max-1-1.jpg)
 
 ### Rango 1 a Muchos (1..N) - Categoría y Productos
-![Cardinalidad Min Max 1:N](db_cardinalidad_min_max-1-N.jpg)
+* [Ver fotografía: Cardinalidad Min Max 1:N](db_cardinalidad_min_max-1-N.jpg)
