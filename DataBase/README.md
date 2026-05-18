@@ -1,4 +1,4 @@
 *   📁 [LogicDesing](./LogicDesing.md)
 *   📁 [falta](./Cardinality)
-*   📁 [Tipo de datos explicacion](./DataType.md) 
+*   📁 [Tipo de datos explicacio( DataType.md)](./DataType.md) 
   
