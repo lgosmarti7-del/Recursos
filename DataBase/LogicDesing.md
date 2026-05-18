@@ -10,7 +10,7 @@ Tablas creadas en el cuaderno pasadas en limpio:
 
 ---
 
-## Cuestionario E.1.2
+## 1.2
 
 ### 1. ¿Según sus palabras qué es una base de datos?
 Es un sistema organizado que permite almacenar modificar y recuperar grandes volúmenes de información  Funciona como un contenedor digital donde los datos se relacionan entre sí para ser consultados rápidamente cuando se necesitann
