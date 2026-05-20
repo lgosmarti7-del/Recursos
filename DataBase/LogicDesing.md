@@ -13,7 +13,7 @@
 ## 1.2
 
 ### 1. ¿Según sus palabras qué es una base de datos?
-Es un sistema organizado que permite almacenar modificar y recuperar grandes volúmenes de información  Funciona como un contenedor digital donde los datos se relacionan entre sí para ser consultados rápidamente cuando se necesitann
+Es un sistema organizado que permite almacenar modificar y recuperar grande información , Funciona como un contenedor digital donde los datos se relacionan entre sí para ser consultados rápidamente cuando se necesitann
 
 ### 2. ¿Por qué en el ejemplo visto en clases es mejor usar float a cambio de int en el ingreso del campo edad?
 Porque permite registrar edades fraccionadas o menores a un año, como un cachorro de 6 meses representado con 0,5
