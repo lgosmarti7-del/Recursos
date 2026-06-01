@@ -1,3 +1,6 @@
+<img width="3676" height="2090" alt="IMG_5473" src="https://github.com/user-attachments/assets/3cde47a0-e21e-410e-a2fa-ff9811b3ddea" />
+
+
 #### 1- ¿Que formas normales uso y por que?
 R.- Qué usé: Usé 1NF, 2NF y 3NF
 
