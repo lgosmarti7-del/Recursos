@@ -10,5 +10,5 @@ R.- Lo más difícil fue diseñar la tabla Rendimiento, porque costó estructura
 #### 3- Que tablas aun le faltaría a su sistema para producción y por qué?
 R.- 
 Algunas tablas que aun faltan son: 
-* Contratos: Para registrar sueldos y fechas de vencimiento de los jugadores por un tema legal.
-* Cuerpo_Técnico y Historial_Médico,para controlar quién dirige y el estado físico de los Jugadores.
+* Contratos: Para registrar sueldos y fechas de vencimiento de los jugadores.
+* Cuerpo_Técnico y Historial_Médico: Para controlar quién dirige y el estado físico de los Jugadores.
