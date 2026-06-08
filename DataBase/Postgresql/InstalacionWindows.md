@@ -5,4 +5,5 @@ Descargamos postgres, la version *9.5.25* (  https://www.enterprisedb.com/downlo
 <img width="453" height="196" alt="instalacion" src="https://github.com/user-attachments/assets/b819b879-5606-4ce1-9b9f-2b57e89ac995" />
 
 ### Paso 2 
-Extraemos el archivo y Abrimos el Archivo
+Extraemos el archivo y Abrimos el Archivo ( pgsql ) , Abrimos terminal 
+<img width="1114" height="585" alt="extraccion" src="https://github.com/user-attachments/assets/4a7c5dda-450f-4da0-91ee-c0bc7bc2251c" />
