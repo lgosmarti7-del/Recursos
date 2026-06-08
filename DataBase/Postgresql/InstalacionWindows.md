@@ -2,4 +2,4 @@
 
 ### Paso 1
 Descargamos postgres, la version *9.5.25* (  https://www.enterprisedb.com/download-postgresql-binaries ) 
-![](./instalacion.png) 
+![Instalacion](./instalacion.png) 
